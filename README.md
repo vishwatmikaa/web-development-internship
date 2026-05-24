@@ -5,16 +5,9 @@ This is my Week 1 project submission for the BeeSkilled internship. The goal of 
 
  Project Preview
  
- About
  ![About Section](./about-preview.png)
-
- Education
  ![Education Section](./education-preview.png)
-
- Skills
  ![Skills Section](./skills-preview.png)
-
- Contact
  ![Contact Section](./contact-preview.png)
 
 Verification Criteria Met
