@@ -4,9 +4,16 @@ Project Overview
 This is my Week 1 project submission for the BeeSkilled internship. The goal of this assignment was to build a clean, structural, and modern single-page personal portfolio from scratch using semantic HTML and custom styling with CSS. 
 
  Project Preview
+ About
  ![About Section](./about-preview.png)
+
+ Education
  ![Education Section](./education-preview.png)
+
+ Skills
  ![Skills Section](./skills-preview.png)
+
+ Contact
  ![Contact Section](./contact-preview.png)
 
 Verification Criteria Met
